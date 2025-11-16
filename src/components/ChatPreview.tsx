@@ -20,7 +20,6 @@ const floatVariants = {
     transition: {
       duration: 2.4,
       repeat: Infinity,
-      repeatType: "reverse",
       ease: "easeInOut",
     },
   },
